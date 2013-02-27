@@ -1,6 +1,6 @@
 #!/usr/bin/python
-userName=raw_input("What is your name?  ")
-print "Welcome to the program, ", userName
+#userName=raw_input("What is your name?  ")
+#print "Welcome to the program, ", userName
 goAgain = 1
 while goAgain == 1:
 	firstNumber = int(raw_input("Type the first number: "))
